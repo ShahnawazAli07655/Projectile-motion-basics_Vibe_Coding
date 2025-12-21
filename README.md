@@ -49,7 +49,7 @@ Make sure you have Python 3 installed along with the following libraries:
 
 ---
 
-##🧮 Physics Logic
+## 🧮 Physics Logic
 
 The script implements standard kinematic equations 
 where 
@@ -59,7 +59,7 @@ where
 
 ---
 
-##📈 Sample Output
+## 📈 Sample Output
 
 When the script runs, it provides a summary of the flight data in the console:
 
@@ -77,7 +77,7 @@ Goalpara College
 
 ---
 
-##📚 Educational Use
+## 📚 Educational Use
 
 This project is ideal for:
 
