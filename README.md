@@ -53,15 +53,15 @@ Make sure you have Python 3 installed along with the following libraries:
 
 The script implements standard kinematic equations 
 where 
-* ** $g = 9.8  m/s^2
-* ** Horizontal Distance: $x = v0 \cos(\theta)t$
-* ** Vertical Distance: $y = v0 \sin(\theta)t - \0.5*gt^2
+*  $g = 9.8  m/s^2$
+*  Horizontal Distance: $x = v0 \cos(\theta)t$
+*  Vertical Distance: $y = v0 \sin(\theta)t - \0.5*gt^2$
 
 ---
 
-##📈 Output
+##📈 Sample Output
 
-When the script runs, it provides a summary of the flight data (sample output) in the console:
+When the script runs, it provides a summary of the flight data in the console:
 
 Time of Flight: 4.08 s
 Max Height: 20.41 m
