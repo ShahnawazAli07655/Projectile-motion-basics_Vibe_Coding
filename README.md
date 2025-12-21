@@ -1,2 +1,80 @@
-# Projectile-motion-basics
-This python program visualises the trajectory of the projectile depending on its velocity and projection angle
+# Projectile Motion Simulation in Python
+
+This project simulates **projectile motion** using classical physics equations and visualizes the trajectory using **NumPy** and **Matplotlib**.
+
+The program calculates:
+* **Time of flight**
+* **Maximum height reached**
+* **Horizontal range**
+* **Trajectory plot** of the projectile
+
+---
+
+## 📌 Features
+
+- **Interactive User Input:**
+  - Initial velocity ($m/s$)
+  - Angle of projection (degrees)
+  - Duration for the simulation
+- **Physics Computations:** Calculates key physical quantities automatically.
+- **Visual Feedback:** Displays a high-quality **2D trajectory plot**.
+- **Beginner Friendly:** Clean, documented code for physics and Python learners.
+
+---
+
+## 🧮 Physics Used
+
+The simulation is based on standard projectile motion equations under uniform gravity:
+
+
+
+* **Horizontal velocity:** $v_x = v_0 \cos(\theta)$
+* **Vertical velocity:** $v_y = v_0 \sin(\theta)$
+* **Time of flight:** $T = \frac{2v_y}{g}$
+* **Maximum height:** $H = \frac{v_y^2}{2g}$
+* **Range:** $R = v_x \times T$
+
+**Assumptions:**
+* No air resistance
+* Constant gravitational acceleration ($g = 9.8 \, m/s^2$)
+
+---
+
+## 🛠️ Requirements
+
+Make sure you have Python 3 installed along with the following libraries:
+
+---
+
+##🧮 Physics Logic
+
+The script implements standard kinematic equations 
+where $g = 9.8 \, m/s^2$:Horizontal Distance: $x = v_0 \cos(\theta)t$Vertical Distance: $y = v_0 \sin(\theta)t - \frac{1}{2}gt^2$
+
+---
+
+##📈 Output
+
+When the script runs, it provides a summary of the flight data (sample output) in the console:
+
+Time of Flight: 4.08 s
+Max Height: 20.41 m
+Horizontal Range: 70.68 m
+
+---
+
+##📚 Educational Use
+
+This project is ideal for:
+
+1. Physics students studying kinematics.
+
+2. Python beginners learning how to use libraries.
+
+3. Data Visualization practice with Matplotlib.
+
+---
+
+Happy Computing!
+
+---
