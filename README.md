@@ -36,7 +36,7 @@ The simulation is based on standard projectile motion equations under uniform gr
 
 **Assumptions:**
 * No air resistance
-* Constant gravitational acceleration ($g = 9.8  m/s^2)
+* Constant gravitational acceleration (g = 9.8  m/s^2)
 
 ---
 
