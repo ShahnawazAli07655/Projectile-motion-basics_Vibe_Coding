@@ -53,9 +53,9 @@ Make sure you have Python 3 installed along with the following libraries:
 
 The script implements standard kinematic equations 
 where 
-** $g = 9.8  m/s^2
-** Horizontal Distance: $x = v0 \cos(\theta)t$
-** Vertical Distance: $y = v0 \sin(\theta)t - \0.5*gt^2
+* ** $g = 9.8  m/s^2
+* ** Horizontal Distance: $x = v0 \cos(\theta)t$
+* ** Vertical Distance: $y = v0 \sin(\theta)t - \0.5*gt^2
 
 ---
 
