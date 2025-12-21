@@ -69,6 +69,14 @@ Horizontal Range: 70.68 m
 
 ---
 
+## ✍ Author
+
+**Shah Nawaz Ali**  
+Assistant Professor, Department of Physics,
+Goalpara College 
+
+---
+
 ##📚 Educational Use
 
 This project is ideal for:
@@ -79,7 +87,7 @@ This project is ideal for:
 
 3. Data Visualization practice with Matplotlib.
 
----
+
 
 Happy Computing!
 
