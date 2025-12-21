@@ -63,9 +63,9 @@ where
 
 When the script runs, it provides a summary of the flight data in the console:
 
-Time of Flight: 4.08 s
-Max Height: 20.41 m
-Horizontal Range: 70.68 m
+* Time of Flight: 4.08 s
+* Max Height: 20.41 m
+* Horizontal Range: 70.68 m
 
 ---
 
