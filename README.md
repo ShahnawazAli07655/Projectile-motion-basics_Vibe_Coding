@@ -30,13 +30,13 @@ The simulation is based on standard projectile motion equations under uniform gr
 
 * **Horizontal velocity:** $v_x = v_0 \cos(\theta)$
 * **Vertical velocity:** $v_y = v_0 \sin(\theta)$
-* **Time of flight:** $T = \frac{2v_y}{g}$
-* **Maximum height:** $H = \frac{v_y^2}{2g}$
+* **Time of flight:** $T = 2v_y/g$
+* **Maximum height:** $H = (v_y^2)/(2g)$
 * **Range:** $R = v_x \times T$
 
 **Assumptions:**
 * No air resistance
-* Constant gravitational acceleration ($g = 9.8 \, m/s^2$)
+* Constant gravitational acceleration ($g = 9.8  m/s^2)
 
 ---
 
@@ -44,12 +44,17 @@ The simulation is based on standard projectile motion equations under uniform gr
 
 Make sure you have Python 3 installed along with the following libraries:
 
+1. Numpy
+2. Matplotlib
+
 ---
 
 ##🧮 Physics Logic
 
 The script implements standard kinematic equations 
-where $g = 9.8 \, m/s^2$:Horizontal Distance: $x = v_0 \cos(\theta)t$Vertical Distance: $y = v_0 \sin(\theta)t - \frac{1}{2}gt^2$
+where $g = 9.8  m/s^2
+Horizontal Distance: $x = v_0 \cos(\theta)t$
+Vertical Distance: $y = v_0 \sin(\theta)t - \0.5*gt^2
 
 ---
 
